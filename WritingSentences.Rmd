@@ -1,0 +1,113 @@
+---
+title: "Writing Sentences"
+subtitle: "Writing tips for the bias-busting social cognition lab"
+author: ""
+output:
+  ioslides_presentation:
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Writing Strategy
+- Get your idea onto the screen
+- Then check out these tips to make your writing more powerful
+
+## Tips for writing sentences (1)
+> - Subject, verb, object
+> - Who is the sentence about? 
+> - What happened?
+> - What was the outcome?  
+> - Put the verb and subject as close together as possible
+> - The ice cream melted.
+> - The ice cream, which was strawberry, melted.
+> - Can you make this sentence more powerful without losing information?
+
+## Tips for writing sentences (2)
+> - **Topic**: the beginning of the sentence. Put old information here
+> - **Stress**: the end of the sentence. Put new information here. This holds the emotional weight of the sentence.
+> - In a multi-clause sentence, the ending of each clause is a *stress*.
+> - **Topic is second most important**. It should be short and clear. Main verb should immediately follow topic.
+> - **Middle is least important**. Put things that you don't want emphasized here. (or don't have this)
+> - **Stress is most important**. Put your key message here. Delete words that follow the word you want to be the stress.
+> - The strawberry ice cream melted on the table.
+
+## Tips for writing sentences (3)
+> - What is the topic and what is the stress? What is the story?
+> - Viruses were not studied in the sea until 1989 yet are its most abundant biological entities.
+> - The most abundant biological entities in the sea are viruses, yet they were not studied until 1989.
+> - The most abundant biological entities in the sea were not studied until 1989: viruses.
+> - The placement of 'viruses', '1989', and 'most abundant biological entities in the sea' can tell up to six different stories
+> - Think about the story you are telling with each sentence you write
+
+## Tips for writing sentences (4)
+> - What is the topic of your sentence???
+> - Is it you? Is that what you intend?
+> - Is it the authors of a paper? Smith (2001) found X.
+> - They should never be the topic of a sentence. X (Smith, 2001).
+> - Are you using filter phrases? There is evidence that X (Smith, 2001)
+> - Delete filter phrases! X (Smith, 2001)
+
+## Tips for writing sentences (5)
+> - Avoid adverbs. Just use a stronger or weaker noun or verb.
+> - There can be exceptions but these adverbs are bad.
+> - Significant(ly), certain(ly), entire(ly), high(ly), quite, rather, real(ly), simple(ly), substantial(ly), very
+> - The immune system uses a highly effective control mechanism that efficiently discriminates between self and nonself.
+
+## Tips for writing sentences (6)
+
+|Avoid Long French or Latin Word|Use Shorter Viking word (Anglo-Saxon)|
+|:-----------------------------:|:-----------------------------------:|
+|Duration (fr)                  |length or time                       |
+|Consume  (fr)                  |eat                                  |
+|Mortality (fr)                 |death                                |
+|Permit (fr)                    |let                                  |
+|Necesssary (fr)                |need                                 |
+|Demonstrate (L)                |show                                 |
+|Donate (L)                     |give                                 |
+|Initiate (L)                   |start                                |
+|Attempt (fr)                   |try (old french)                     |
+|Utilize (fr)                   |use (old french)                     |
+|Methodology (L)                |Method (also L)                      |
+
+## Tips for writing sentences (7)
+|Use Verbs                |Avoid Nominalizations            |
+|:-----------------------:|:-------------------------------:|
+|Move                     |Movement                         |
+|Differ                   |Difference                       |
+|Suggest                  |Suggestion                       |
+|Interact                 |Interaction                      |
+|Analyze                  |Analysis                         |
+|Develop                  |Development                      |
+|Influenced               |had an influence on              |
+|Approached               |took an approach                 |
+|Yielded                  |The yield of the                 |
+|Associated               |The association was              |
+
+## Tips for writing sentences (8)
+|Fuzzy verbs (weak)|Action Verbs (Strong)|
+|:----------------:|:-------------------:|
+|occur             |modify               |
+|facilitate        |increase/decrease    |
+|conduct           |accomplish           |
+|implement         |create               |
+|affect            |invade               |
+|perform           |react                |
+|                  |inhibit              |
+|                  |disrupt              |
+|                  |accelerate           |
+|                  |migrate              |
+
+## Tips for writing sentences (9)
+- Always use active voice!
+    - Unless you want to hide the actor
+    - Or you want to focus on the 'acted on' thing  
+
+|Voice       |Subject     |Verb        |Object      |
+|:----------:|:----------:|:----------:|:----------:|
+|Active      |John        |called      |Jane        |
+|            |Actor       |Action      |Acted-on    |
+|Passive     |Jane        |was called  |by John     |
+|            |Acted-on    |Action      |Actor       |

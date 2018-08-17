@@ -13,132 +13,70 @@ knitr::opts_chunk$set(echo = FALSE)
 ## What is the Challenge
 > - The challenge is where you describe the knowledge you hope to gain
 > - In journal articles, the challenge comes at the end of the introduction
-> - In grants, the challenged comes at the beginning
+> - In grants, the challenge comes at the beginning
 > - **The knowledge you hope to gain is the core of the paper. Nailing this down will guide you in writing the rest of the paper**
 
 
-## The **challenge** of every thesis, article, and grant proposal
-> - This is where you communicate the contribution of your work 
+## Parts of the Challenge
 > - What do you want to learn?
 > - How are you going to learn it?
 > - What do you think will happen?
 > - Sometimes you might have objectives instead of hypotheses. But usually you want to write your objectives as though they are hypotheses because they probably are. Sometimes you have hypotheses and objectives. That's ok, all these rules can be broken.
 
 ## What do you want to learn
-- To learn x, we did y
-- Bad challenges focus on information rather than knowledge
-- Bad challenges focus on results rather than the meaning of results
+- All challenges need to communicate this:
+    - **To learn x, we did y**
+- What you want to learn is **x**
+- Bad challenges focus on *information* rather than *knowledge*
+- Bad challenges focus on *results* rather than their *meaning*
 
 ## What do you want to learn (examples)
-> - how facial expressions moderate prejudice
-> - how favorable participants felt toward people displaying angry, neutral, and happy facial expressions.
+> - how facial expressions moderate prejudice (good)
+> - how favorable participants felt toward people displaying angry, neutral, and happy facial expressions. (bad--but good for another part of the challenge)
 > - how men and women are represented in the cognitive schemas of social categories around the world (to learn x)
-> - how strongly prejudice against the men and women of social categories were related to prejudice against those categories overall (we did y)
+> - how strongly prejudice against the men and women of social categories was related to prejudice against those categories overall (we did y)
 
-## Writing Strategy
-- Get your idea onto the screen
-- Then check out these tips to make your writing more powerful
+## How are you going to learn it?
+- To learn x, we did y
+- How you are going to do it is **y**
+- A 1 or 2 sentence summary of your methods
 
-## Tips for writing sentences (1)
-> - Subject, verb, object
-> - Who is the sentence about? 
-> - What happened?
-> - What was the outcome?  
-> - Put the verb and subject as close together as possible
-> - The ice cream melted.
-> - The ice cream, which was strawberry, melted.
-> - Can you make this sentence more powerful without losing information?
+## How are you going to learn it? (tips)
+- We investigated ...
+- We examined ...
+- We manipulated ...
+- We compared ... 
+- We conducted an experiment in which ...
+- We tested ...
 
-## Tips for writing sentences (2)
-> - **Topic**: the beginning of the sentence. Put old information here
-> - **Stress**: the end of the sentence. Put new information here. This holds the emotional weight of the sentence.
-> - In a multi-clause sentence, the ending of each clause is a *stress*.
-> - **Topic is second most important**. It should be short and clear. Main verb should immediately follow topic.
-> - **Middle is least important**. Put things that you don't want emphasized here. (or don't have this)
-> - **Stress is most important**. Put your key message here. Delete words that follow the word you want to be the stress.
-> - The strawberry ice cream melted on the table.
+## How are you going to learn it? (examples)
+> - We examined how favorable participants felt toward people displaying angry, neutral, and happy facial expressions.
+> - We compared how strongly prejudice against the men and women of social categories was related to prejudice against those categories overall
 
-## Tips for writing sentences (3)
-> - What is the topic and what is the stress? What is the story?
-> - Viruses were not studied in the sea until 1989 yet are its most abundant biological entities.
-> - The most abundant biological entities in the sea are viruses, yet they were not studied until 1989.
-> - The most abundant biological entities in the sea were not studied until 1989: viruses.
-> - The placement of 'viruses', '1989', and 'most abundant biological entities in the sea' can tell up to six different stories
-> - Think about the story you are telling with each sentence you write
+## Have you forgotten anything?
+- All the main 'characters' of your 'story' should be included in the: to learn x, we did y statements
+- 'Characters' are the variables of your study. 
+    - Someone else should be able to determine the relationship between your main variables by reading the: to learn x, we did y statement
+    - Which variables are the IVs?
+    - Which variables are the DVs?
+    - Or are you making an association claim instead of a causal claim?
 
-## Tips for writing sentences (4)
-> - What is the topic of your sentence???
-> - Is it you? Is that what you intend?
-> - Is it the authors of a paper? Smith (2001) found X.
-> - They should never be the topic of a sentence. X (Smith, 2001).
-> - Are you using filter phrases? There is evidence that X (Smith, 2001)
-> - Delete filter phrases! X (Smith, 2001)
+## What do you think will happen?
+- Your hypotheses or predictions
+    - We predict
+    - We expect
+    - We hypothesize
 
-## Tips for writing sentences (5)
-> - Avoid adverbs. Just use a stronger or weaker noun or verb.
-> - There can be exceptions but these adverbs are bad.
-> - Significant(ly), certain(ly), entire(ly), high(ly), quite, rather, real(ly), simple(ly), substantial(ly), very
-> - The immune system uses a highly effective control mechanism that efficiently discriminates between self and nonself.
+## What do you think will happen?
+- We expected the least amount of prejudice against target category members displaying an emotional facial expression and the greatest amount of prejudice against target category members displaying a neutral facial expression. 
 
-## Tips for writing sentences (6)
+## What do you think will happen?
+- We predicted that for some categories (e.g., ) prejudice against men would be more strongly related to prejudice against the group than prejudice against women. For other categories (e.g., ), we predicted the opposite. Conducting this experiment in many regions of the world (e.g., Africa, Asia, Middle East, Central America and Mexico, USA and Canada, Eastern Europe, Western Europe, Australia and New Zealand, Scandinavia, South America, UK) allowed us to predict that for a third group of categories (e.g., ) prejudice against men would be more strongly related to prejudice against the group in some regions but the opposite would be true in other regions. For example, in the USA and Canada we predicted that prejudice against East Asian women would be more strongly related to prejudice against East Asians as a group than prejudice against East Asian men but in Asia we predicted the opposite. 
 
-|Avoid Long French or Latin Word|Use Shorter Viking word (Anglo-Saxon)|
-|:-----------------------------:|:-----------------------------------:|
-|Duration (fr)                  |length or time                       |
-|Consume  (fr)                  |eat                                  |
-|Mortality (fr)                 |death                                |
-|Permit (fr)                    |let                                  |
-|Necesssary (fr)                |need                                 |
-|Demonstrate (L)                |show                                 |
-|Donate (L)                     |give                                 |
-|Initiate (L)                   |start                                |
-|Attempt (fr)                   |try (old french)                     |
-|Utilize (fr)                   |use (old french)                     |
-|Methodology (L)                |Method (also L)                      |
-
-## Tips for writing sentences (7)
-|Use Verbs                |Avoid Nominalizations            |
-|:-----------------------:|:-------------------------------:|
-|Move                     |Movement                         |
-|Differ                   |Difference                       |
-|Suggest                  |Suggestion                       |
-|Interact                 |Interaction                      |
-|Analyze                  |Analysis                         |
-|Develop                  |Development                      |
-|Influenced               |had an influence on              |
-|Approached               |took an approach                 |
-|Yielded                  |The yield of the                 |
-|Associated               |The association was              |
-
-## Tips for writing sentences (8)
-|Fuzzy verbs (weak)|Action Verbs (Strong)|
-|:----------------:|:-------------------:|
-|occur             |modify               |
-|facilitate        |increase/decrease    |
-|conduct           |accomplish           |
-|implement         |create               |
-|affect            |invade               |
-|perform           |react                |
-|                  |inhibit              |
-|                  |disrupt              |
-|                  |accelerate           |
-|                  |migrate              |
-
-## Tips for writing sentences (9)
-- Always use active voice!
-    - Unless you want to hide the actor
-    - Or you want to focus on the 'acted on' thing  
-
-|Voice       |Subject     |Verb        |Object      |
-|:----------:|:----------:|:----------:|:----------:|
-|Active      |John        |called      |Jane        |
-|            |Actor       |Action      |Acted-on    |
-|Passive     |Jane        |was called  |by John     |
-|            |Acted-on    |Action      |Actor       |
-
-## Next week
-- Meet in library
-    - (I won't be here)
-    - Room 2102B
-- Submit elevator pitch assignment
-- Check Canvas for updates
+## The title
+- The is one of the most important parts of the paper
+    - Because it is the most read part
+    - So is the abstract
+- Spend some time getting the title right. It should describe the challenge to the reader
+    - This means it must introduce all the 'characters' and their relationships
+    

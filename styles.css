@@ -70,3 +70,7 @@ table.rmdtable tr > td:first-child{
 table.rmdtable tr:nth-child(odd){
   background-color:#F32D60;
 }
+
+strong{
+  color: #F32D60;
+}
