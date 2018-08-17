@@ -1,0 +1,72 @@
+slide {
+  background: linear-gradient(to right, #BE2045, #F32D60);
+}
+
+h2 {
+  background-color: #337EAB;
+  max-width: 100%;
+  color: #FFFFFF;
+  padding: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+hgroup{
+  max-width: 100%;
+}
+
+article{
+  background-color: #704B8A;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+  color: #FFFFFF;
+  margin: 0;
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+slides > slide.title-slide hgroup h1 {
+  color: #FFFFFF;
+}
+
+slides > slide.title-slide hgroup h2 {
+  color: #FFFFFF;
+}
+
+slides > slide.title-slide hgroup p {
+  color: #FFFFFF;
+  background-color: #704B8A;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 10px;
+  margin: 0;
+
+}
+
+img {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px;
+}
+
+a {
+  color: #F32D60;
+}
+
+table.rmdtable th {
+  background: linear-gradient(to right, #337EAB, #337EAB);
+  font-size: 12px;
+}
+
+table.rmdtable td {
+  font-size: 12px;
+}
+
+table.rmdtable tr > td:first-child{
+  color: #FFFFFF;
+}
+
+table.rmdtable tr:nth-child(odd){
+  background-color:#F32D60;
+}
