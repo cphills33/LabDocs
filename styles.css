@@ -65,7 +65,7 @@ table.rmdtable td {
 
 table.rmdtable tr > td:first-child{
   color: #FFFFFF;
-}
+} 
 
 table.rmdtable tr:nth-child(odd){
   background-color:#F32D60;

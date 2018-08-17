@@ -1,7 +1,7 @@
 ---
-title: "PSY 6937"
-subtitle: "Colloquium in Psychological Research"
-author: "Week 1: Tools"
+title: "Writing the Challenge"
+subtitle: "Writing tips for the bias-busting social cognition lab"
+author: ""
 output:
   ioslides_presentation:
     css: styles.css
@@ -10,145 +10,12 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## What is the Challenge
+> - The challenge is where you describe the knowledge you hope to gain
+> - In journal articles, the challenge comes at the end of the introduction
+> - In grants, the challenged comes at the beginning
+> - **The knowledge you hope to gain is the core of the paper. Nailing this down will guide you in writing the rest of the paper**
 
-## Course Instructor
-<div class="columns-2">
-
-- Curtis Phills, PhD
-- Office: 51/3429
-- Email: curtis.phills@unf.edu
-- Office Hours: T/R noon to 3 pm
-- Course Website: Canvas
-
-![](P1020941.jpg)
-
-</div>
-
-## Expectations
-> - Class begins and ends on time
-> - Listen to each other with respect and trust
-> - Invest in your own learning
-> - Participate actively in your learning
-
-## Today you will have the opportunity to:
-> - Identify some of the tools psychologists use to conduct research and communicate findings
-> - Define what you want to learn
-
-## Agenda
-> - Class structure
-> - Tool 1: Analysis tools
-> - Tool 2: Writing tools
-> - What do you want to learn?
-
-## Class Format
-- Each class will usually consist of:
-    - lecture
-    - discussion
-    - group/individual work
-    - maybe a video
-
-## Course Textbook
-- No textbook!
-- But I recommend:
-    - [R for Data Science](r4ds.had.co.nz)
-    - [Writing Science by Joshua Schimel](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241/ref=sr_1_3?ie=UTF8&qid=1534241813&sr=8-3&keywords=writing+science)
-    - [Ten simple rules for structuring paper by PLOS Computational Biology Staff](journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
-    - [Writing for Psychology by Mark Mitchell and colleagues](https://www.amazon.com/Writing-Psychology-Mark-L-Mitchell/dp/1111840636/ref=sr_1_1?ie=UTF8&qid=1534242058&sr=8-1&keywords=writing+for+psychology)
-    
-## Goals of this course
-- At the end of this course you will be able to:
-    - Define your research question
-    - Create a professional CV
-    - Learn recent developments in Psychology
-    
-## Assignments
-> - 125 possible points
-> - CV (25 points)
-> - Research Proposal (50 points)
-> - Webpage (25 points)
-> - Presentation (25 points)
-> - **Must complete the research proposal**
-> - 75 points needed to pass. Plan your time accordingly
-
-## R (Analysis Tool 1)
-<div class="columns-2">
-According to  [r4stats:](http://r4stats.com/articles/popularity/)
-![](Fig_2a_ScholarlyImpact2016-3.png)
-![](Fig_2d_ScholarlyImpact2016.png)
-</div>
-<div class="notes">
-In this course, we will be using one of the most popular statistical analysis programs: R
-
-Courtesy of this website (Links to an external site.)Links to an external site., R was the second most popular statistical analysis program used in scholarly articles in 2016.
-
-The long-term trend is for R to become the most popular statistical analysis program.
-
-You can see SPSS was by far the most popular, but its popularity has really decreased. SAS's popularity has also decreased.
-
-10 years from now I expect R to be the most popular stats program among psychologists. That means if you learn it now, you will have a marketable skill going forward. Lots of research laboratories will be looking to start analyzing their data in R and they will want to work with people like you who have experience with it (or you will, starting today!).
-</div>
-
-## RStudio
-- We won't work directly with the R GUI. Instead, we will work with R Studio.
-- RStudio provides many, many helpful functions and features
-    - These slides were created with RStudio!
-    - You can write papers that conform to APA style with RStudio
-    - You can make pretty graphs with RStudio
-    - You can make shareable output with RStudio
-- But why do any of these things with RStudio?
-
-## Reproducible Science
-> - **Replication:** Using new data, can you replicate a previous finding?
-
-> - **Reproducibility:** Using the same data, can you get the same results?
-
->- What are some reasons for reproducibility errors?
-
-## Statcheck (Analysis Tool 2)
-- <statcheck.io>
-- Checks your p's, F's, t's, and df's
-- Statcheck is right about [95% of the time](http://www.sciencemag.org/news/2017/11/controversial-software-proving-surprisingly-accurate-spotting-errors-psychology-papers)
-- Statcheck checked 30 000 papers and found about [half contain at least one error](https://link.springer.com/article/10.3758%2Fs13428-015-0664-2).
-
-## The GRIM Test
-- [The GRIM Test: A Simple Technique Detects Numerous Anomalies in the Reporting of Results in Psychology](http://sci-hub.tw/http://journals.sagepub.com/doi/abs/10.1177/1948550616673876)
-- Granularity-related inconsistency of means
-- Look at the sample size, look at the means. Are the means even possible?
-- Half of studies between 2011-2015 with Likert scales failed the GRIM test in the following journals:
-    - Psychological Science (PS)
-    - Journal of Experimental Psychology: General (JEP:G)
-    - Journal of Personality and Social Psychology (JPSP)
-    
-## Papaja (Writing Tool 1)
-- <https://github.com/crsh/papaja> 
-- Works with RStudio to create APA style consistent manuscripts
-- Never make a reproducibility mistake again!
-    - Put your analysis script right in the manuscript!
-    - Put the code to create your graphs, right in the manuscript
-    - Never mess around with headers and footers again
-    - Automatically create reference pages that update as you make changes
-    
-## Zotero (Writing Tool 2)
-- <https://www.zotero.org>
-- A reference manager
-- Other options include mendeley or endnotes or refworks
-- We will use zotero for this course because it integrates with RStudio and is free
-
-## Grammarly (Writing Tool 3)
-- <https://www.grammarly.com>
-- Check spelling and basic grammar
-    - Excellent at catching passive voice
-    - Let's you know when you're being too wordy
-    - Not perfect but useful. It's like a fresh set of eyes.
-- I use it for all my writing
-
-## 2019 NSF Graduate Research Fellowship Program
-- <https://www.fastlane.nsf.gov/grfp/Login.do> 
-- <https://www.nsf.gov/pubs/2012/nsf12599/nsf12599.htm>
-- 3 years of support at approximately $42 000 per year
-- The Personal Statement, Previous Research Experience, and Proposed Plan of Research essays each have a maximum length of two pages, including all references, citations, charts, figures, images, and lists of publications and presentations. 
-- Due last of week of October
-- **We will work on these essays as part of this class. You decide whether you want to submit**
 
 ## The **challenge** of every thesis, article, and grant proposal
 > - This is where you communicate the contribution of your work 
